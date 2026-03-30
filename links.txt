@@ -1,0 +1,11 @@
+[
+  "http://www.linkedin.com/in/vancha-siddhartha-reddy",
+  "mailto:vanchasiddharthareddy@gmail.com",
+  "https://github.com/Propalyer2006",
+  "https://drive.google.com/file/d/1P-YOlgfDUWpnvoSakbRS8R4WSn9gZkmq/view?usp=sharing",
+  "https://github.com/Propalyer2006/Print-Queue-Manager",
+  "https://github.com/Propalyer2006/Movie-Recommender",
+  "https://drive.google.com/file/d/1vTu7YU-PvwhPyUpE6pSDKe2qosPPkmqI/view?usp=sharing",
+  "https://drive.google.com/file/d/1Aaf558-tuDBa35EVaTRicWBB5OVwNu0j/view?usp=sharing",
+  "https://drive.google.com/file/d/1MBVISQ1s6YehZY3FhQtgGAaWsssA6ITK/view?usp=sharing"
+]

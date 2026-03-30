@@ -1,0 +1,81 @@
+ Vancha Siddhartha Reddy 
+LinkedIn: www.linkedin.com/in/vancha-siddhartha-reddy 
+ 
+     Email: vanchasiddharthareddy@gmail.com     
+GitHub: https://github.com/Propalyer2006 
+                                            Mobile: +91-9392769041 
+ 
+SKILLS 
+• Languages: 
+Java, C++, Bash/Shell Scripting 
+• Frameworks: 
+Serverless Framework, Terraform, Flask 
+• Tools/Platforms: 
+Amazon Web Services (AWS), Docker, Kubernetes, Git/GitHub 
+• Soft Skills: 
+Problem-Solving Skills, Analytical & Critical Thinking, Communication Skills 
+TRAINING 
+Advanced Data Structures – Center for Professional Enhancement (LPU) | Certificate           June 2025 – July 2025 
+• 
+Gained hands-on experience with 6+ Advanced Data Structures, including AVL trees, Red-Black trees, heaps, 
+graphs, hash tables, and efficient searching/sorting techniques 
+• 
+Improved algorithmic thinking and problem-solving skills, increasing data-structure proficiency by 22% 
+  through practical implementation of complex concepts 
+• 
+Optimized program time-complexity and strengthened coding proficiency, solving 150+ problems for 
+  competitive programming and technical interview problems 
+PROJECTS 
+Print Queue Manager - Automated Job Handling System | Link                                                                   June 2025 
+●    Engineered an automated Print Queue Manager using FIFO queue data structures to manage 1st-in-1st-out 
+processing order efficiently 
+●    Integrated 3 core queue operations — job insertion, job removal, and real-time job tracking — showcasing 
+strong algorithmic reasoning 
+●    Constructed a modular and scalable system using C++, Python, Stream Lit, and file handling, highlighting 
+clean architecture and queue-based processing 
+Tech: C++, Data Structures, Stream Lit, Python, File Handling 
+ 
+Movie Recommender - Search and Mood-Based Suggestion Chat Bot | Link                                      April 2025 
+●    Developed a Movie Recommender AI Bot using HTML, CSS, and JavaScript that suggests movies based on 
+user mood selection (happy, sad, excited, relaxed, etc.). 
+●    Implemented a search and recommendation system to display complete movie details such as title, genre, 
+rating, description, and release year in a user-friendly interface. 
+●    Designed a responsive and interactive UI with dynamic DOM manipulation and JavaScript logic to enhance 
+user experience and decision-making. 
+         Tech: HTML5, CSS3(responsive), JavaScript 
+ 
+CERTIFICATES 
+• AWS Cloud Practitioner Essentials. | AWS 
+                                                                                          November 2025 
+• Master Generative AI & Generative AI tools (ChatGPT & more) | Udemy  
+ 
+ 
+ 
+     August 2025 
+• Introduction to Internet of Things. | NPTEL 
+ 
+ 
+                            
+ 
+ 
+         April 2025 
+ 
+EXTRA-CURRICULAR ACTIVITIES 
+“One India, One World” – Theatre Club: 
+● 
+Participated in a theatre production showcasing cultural unity through stage performance 
+“Community Development Activities”: 
+● 
+Participated in Blood Donation Camp, organized by LPU Community Service Cell. 
+● 
+Volunteer, University Social Outreach Programs – promoting community well-being and civic engagement 
+EDUCATION 
+ 
+     Lovely Professional University                                                                                                           Jalandhar, Punjab 
+Bachelor of Technology - Computer Science and Engineering; CGPA: 6.16                                       Since August 2023 
+Sri Chaitanya Junior Kalasala                                                                                                      Hyderabad, Telangana 
+Intermediate; Percentage: 70 
+  April 2021 - March 2023 
+    Sri Sai Public School                                                                                                                     Hyderabad, Telangana 
+Matriculation; Percentage: 95 
+  April 2020 - March 2021 
